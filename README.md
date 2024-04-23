@@ -1,11 +1,5 @@
-# Database-Management-Portfolio
+# Database-Management-&-Data-Analyst-Portfolio
 
-Hi, If you made it this far My name is Jordan Hayes and I'm aspiring to switch careers into it. 
-
-I have a couple of Projects to share to show my knowledge of Database
-
-1) the First one is a Games Database.
-2)  I made a mistake so now I have to drop a column cause it's in the wrong table
- 
-
+## Hi, My name is Jordan Hayes
+I'm an aspiring Data Analyst/ Database Developer
  
